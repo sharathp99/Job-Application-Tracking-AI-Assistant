@@ -1,0 +1,1 @@
+"""Job Application Tracking AI Assistant."""
